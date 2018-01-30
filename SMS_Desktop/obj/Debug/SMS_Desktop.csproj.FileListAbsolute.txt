@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\bin\Debug\SMS_Desktop.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\bin\Debug\SMS_Desktop.exe
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\bin\Debug\SMS_Desktop.pdb
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.Login.resources
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.exe
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.pdb
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.Main.resources
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.Customer.resources
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.SignUp.resources
+c:\users\user\documents\visual studio 2015\Projects\SMS_Desktop\SMS_Desktop\obj\Debug\SMS_Desktop.csprojResolveAssemblyReference.cache
